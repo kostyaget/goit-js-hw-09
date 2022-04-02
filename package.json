@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://kostyaget.github.io/goit-js-hw-09",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
@@ -28,7 +28,7 @@
   "dependencies": {
     "browserslist": "^4.17.6",
     "caniuse-lite": "^1.0.30001275",
-    "flatpickr": "^4.6.9",
+    "flatpickr": "^4.6.11",
     "lodash.throttle": "^4.1.1",
     "lodash.times": "^4.3.2",
     "notiflix": "^3.1.0"
